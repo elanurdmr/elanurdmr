@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1200&color=FF69B4&center=true&vCenter=true&width=800&lines=SAY+YES+TO+CODE;Software+Engineering+Student;Coding+with+passion+💜;Building+cool+things+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=SAY+YES+TO+CODE;BUILD+THE+FUTURE;FULL-STACK+%7C+AI+%7C+BLOCKCHAIN" />
 </p>
 
 <p align="center">
