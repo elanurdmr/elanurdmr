@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100"/>
+  <img src="output-onlinegiftools.gif" width="100"/>
 </p>
 
 <p align="center">
@@ -78,8 +78,3 @@ Focused on **Full-Stack Development and AI**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### ⚡ Fun Fact :
-
-I turn ideas into **real working systems** 🚀  
