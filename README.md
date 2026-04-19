@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="output-onlinegiftools.gif" width="100"/>
+  <img src="output-onlinegiftools.gif" width="500"/>
 </p>
 
 <p align="center">
