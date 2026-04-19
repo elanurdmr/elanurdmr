@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1200&color=FF69B4&center=true&vCenter=true&width=800&lines=SAY+YES+TO+CODE;Software+Engineering+Student;Coding+with+passion+💜;Building+cool+things+✨" />
 </p>
