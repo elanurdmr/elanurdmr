@@ -1,6 +1,6 @@
 
 <div style="height:200px; overflow:hidden;" align="center">
-  <img src="output-onlinegiftools.gif" width="500"/>
+  <img src="output-onlinegiftools.gif" width="400"/>
 </div>
 
 <p align="center">
