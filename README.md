@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=SAY+YES+TO+CODE;BUILD+THE+FUTURE;FULL-STACK+%7C+AI+%7C+BLOCKCHAIN;SOFTWARE+ENGINEERING+STUDENT" />
 </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elanurdemir/">
@@ -11,15 +13,18 @@
 </a>
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elanurdmr&style=flat-square&color=blue" alt="">
 </p>
+
 
 <h1 align="center">
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   I'm Ela 
 </h1>
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVlcW52Z3l6OG50a2VkNG94aHQ5OGNqMDg4cXlpamozdTRxbTV2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" height="300"/>
