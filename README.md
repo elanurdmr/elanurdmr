@@ -16,8 +16,9 @@
 </p>
 
 <h1 align="center">
-  hey there 
+  Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  I'm Ela 
 </h1>
 
 <p align="center">
@@ -28,7 +29,7 @@
 
 ### 👩‍💻 &nbsp;About Me :
 
-I am **Elanur Demir**, a Software Engineering student from Türkiye 🇹🇷  
+I am **Elanur Demir**, a Software Engineering student from Türkiye
 Focused on **Full-Stack Development and AI**
 
 - 🔭 Currently developing **web, backend and blockchain-based projects**
