@@ -1,6 +1,7 @@
-<p align="center">
+
+<div style="height:200px; overflow:hidden;" align="center">
   <img src="output-onlinegiftools.gif" width="500"/>
-</p>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elanurdemir/">
