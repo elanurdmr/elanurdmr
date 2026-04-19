@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQzZGV0bm1qYmtjZDE0ZzgxcXA0aGFxNTZjaDQ3endyYWZhYTlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"/>
+  <img src="" width="100"/>
 </p>
 
 <p align="center">
@@ -37,8 +37,7 @@ Focused on **Full-Stack Development and AI**
 - 🤖 Interested in **AI-powered applications and smart systems**
 - 🌱 Improving myself in **Java, Python, PHP, JavaScript, SQL**
 - 🚀 I love building **real-world impactful projects**
-- 📫 How to reach me:  
-  [![Linkedin Badge](https://img.shields.io/badge/-Elanur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elanurdemir/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Elanur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elanurdemir/)
 
 ---
 
