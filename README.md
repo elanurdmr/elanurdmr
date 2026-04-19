@@ -21,12 +21,6 @@
   I'm Ela 
 </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elanurdmr/elanurdmr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elanurdmr/elanurdmr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elanurdmr/elanurdmr/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVlcW52Z3l6OG50a2VkNG94aHQ5OGNqMDg4cXlpamozdTRxbTV2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" height="300"/>
 </p>
