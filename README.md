@@ -1,7 +1,7 @@
 
-<div style="height:200px; overflow:hidden;" align="center">
-  <img src="output-onlinegiftools.gif" width="400"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Say+Yes+To+Code;Full-Stack+Developer;Blockchain+%26+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elanurdemir/">
