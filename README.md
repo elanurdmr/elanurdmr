@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=SAY+YES+TO+CODE;BUILD+THE+FUTURE;FULL-STACK+%7C+AI+%7C+BLOCKCHAIN;SOFTWARE+ENGINEERING+STUDENT" />
 </p>
-
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elanurdemir/">
@@ -30,7 +30,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVlcW52Z3l6OG50a2VkNG94aHQ5OGNqMDg4cXlpamozdTRxbTV2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" height="300"/>
 </p>
 
-
 ### 👩‍💻 &nbsp;About Me :
 
 I am **Elanur Demir**, a Software Engineering student from Türkiye
@@ -41,8 +40,6 @@ Focused on **Full-Stack Development and AI**
 - 🤖 Interested in **AI-powered applications and smart systems**
 - 🌱 Improving myself in **Java, Python, PHP, JavaScript, SQL**
 - 🚀 I love building **real-world impactful projects**
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Elanur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elanurdemir/)
-
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
