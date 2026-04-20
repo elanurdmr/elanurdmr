@@ -26,10 +26,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVlcW52Z3l6OG50a2VkNG94aHQ5OGNqMDg4cXlpamozdTRxbTV2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="600" height="300"/>
-</p>
-
 ### 👩‍💻 &nbsp;About Me :
 
 I am **Elanur Demir**, a Software Engineering student from Türkiye
