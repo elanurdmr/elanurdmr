@@ -31,11 +31,11 @@
 I am **Elanur Demir**, a Software Engineering student from Türkiye
 Focused on **Full-Stack Development and AI**
 
-- 🔭 Currently developing **web, backend and blockchain-based projects**
-- 👩‍💻 Active member of **Dou Loop Software Team**
-- 🤖 Interested in **AI-powered applications and smart systems**
-- 🌱 Improving myself in **Java, Python, PHP, JavaScript, SQL**
-- 🚀 I love building **real-world impactful projects**
+- Currently developing **web, backend and blockchain-based projects**
+- Active member of **Dou Loop Software Team**
+- Interested in **AI-powered applications and smart systems**
+- Improving myself in **Java, Python, PHP, JavaScript, SQL**
+- I love building **real-world impactful projects**
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
